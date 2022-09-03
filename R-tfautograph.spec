@@ -4,7 +4,7 @@
 #
 Name     : R-tfautograph
 Version  : 0.3.2
-Release  : 4
+Release  : 5
 URL      : https://cran.r-project.org/src/contrib/tfautograph_0.3.2.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/tfautograph_0.3.2.tar.gz
 Summary  : Autograph R for 'Tensorflow'
